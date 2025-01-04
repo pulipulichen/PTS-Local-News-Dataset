@@ -11,8 +11,6 @@ type: dataset
 license: "MIT"
 license-url: https://github.com/pulipulichen/PTS-Local-News-Dataset/blob/main/LICENSE
 repository-code: "https://github.com/pulipulichen/PTS-Local-News-Dataset"
-languages:
-- zh
 doi: 10.5281/zenodo.14598063
 identifiers:
   - type: doi
