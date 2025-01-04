@@ -7,7 +7,7 @@ authors:
     email: blog@pulipuli.info
     affiliation: Pulipuli Blog
 title: "PTS-Local-News-Dataset"
-type: dataset
+type: aaa
 license: "MIT"
 license-url: https://github.com/pulipulichen/PTS-Local-News-Dataset/blob/main/LICENSE
 repository-code: "https://github.com/pulipulichen/PTS-Local-News-Dataset"
