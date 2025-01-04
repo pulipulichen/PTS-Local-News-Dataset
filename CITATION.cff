@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+authors:
+  - family-names: Chen
+    given-names: Yung-Ting
+    orcid: https://orcid.org/0000-0003-3751-610X
+    email: blog@pulipuli.info
+    affiliation: Pulipuli Blog
+title: "PTS-Local-News-Dataset"
+license: "MIT"
+repository-code: "https://github.com/pulipulichen/PTS-Local-News-Dataset"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14598063
+abstract: "A dataset containing local news from Taiwan Public Television Service."
+keywords:
+  - PTS
+  - news
+  - dataset
